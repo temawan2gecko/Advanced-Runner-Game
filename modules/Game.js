@@ -22,7 +22,7 @@ export class Game {
     this.enemyInterval = 3000;
     this.maxParticle = 50;
     this.time = 0;
-    this.maxTime = 30000;
+    this.maxTime = 150000;
     this.lives = 5;
     this.gameOver = false;
     this.score = 0;
